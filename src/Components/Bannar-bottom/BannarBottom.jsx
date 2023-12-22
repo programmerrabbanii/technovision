@@ -11,7 +11,7 @@ const BannarBottom = () => {
             <div className=" flex-1 bannar-bottom-right">
                 <h4 className="">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout</h4>
             </div>
-            </div>
+            </div> 
 
             <div className="  max-w-screen-lg mx-auto services mt-16 flex flex-col lg:flex-row gap-5">
                 <div className="services-box-1 bg-[#E3DEFC] rounded-lg py-10 px-5">
