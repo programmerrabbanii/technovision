@@ -4,7 +4,7 @@ import member3 from '../../assets/images/rrrerer-bpthumb.jpg'
 import member4 from '../../assets/images/manger_thumb-bpthumb.jpg'
 const Member = () => {
     return (
-        <div className='max-w-screen-lg mx-auto'>
+        <div className='max-w-screen-lg mx-auto pb-12'>
             <h2 className='text-4xl py-5'>Our Recent team members</h2>
             <div className="members-main grid grdi-cols-1 md:grid-cols-2 lg:grid-cols-4">
                 <div className="members-inner">
